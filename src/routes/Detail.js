@@ -15,7 +15,7 @@ function Detail() {
 
     if (location.state) {
         return <span>{location.state.title}</span>;
-    } else  {
+    } else {
         return null;
     }
 }

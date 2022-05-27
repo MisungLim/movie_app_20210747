@@ -31,6 +31,6 @@
     font-weight: 600;
 }
 
-.nav a:not(:last-child)  {
+.nav a:not(:last-child) {
     margin-bottom: 20px;
 }
